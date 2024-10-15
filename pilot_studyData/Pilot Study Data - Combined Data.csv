@@ -1,0 +1,31 @@
+Participant,Algorithm,OSPAN_Proportion,RSPAN_Proportion,Flanker_RT_Difference,Saccade_Amplitude,Saccade_Velocity
+1,Content Ranking,45,42,110,5.2,270
+1,Infinite Scrolling,38,35,135,6.5,220
+1,Recommendation,50,45,120,4.9,300
+2,Content Ranking,52,50,105,6.1,280
+2,Infinite Scrolling,43,40,145,7,230
+2,Recommendation,48,49,115,5.5,310
+3,Content Ranking,40,37,95,5.8,265
+3,Infinite Scrolling,37,32,140,6.8,215
+3,Recommendation,44,41,110,5.3,305
+4,Content Ranking,56,55,130,6.4,290
+4,Infinite Scrolling,50,47,155,7.2,240
+4,Recommendation,53,53,125,5.7,315
+5,Content Ranking,48,46,115,5.7,275
+5,Infinite Scrolling,42,39,150,6.9,225
+5,Recommendation,46,44,105,5.4,310
+6,Content Ranking,39,40,100,6,285
+6,Infinite Scrolling,33,36,138,7.1,235
+6,Recommendation,41,43,108,5.8,320
+7,Content Ranking,51,49,90,5.9,260
+7,Infinite Scrolling,47,44,142,7.3,210
+7,Recommendation,54,52,102,5.6,290
+8,Content Ranking,47,44,125,6.2,295
+8,Infinite Scrolling,36,34,160,6.7,245
+8,Recommendation,43,42,128,5.9,325
+9,Content Ranking,42,38,98,5.5,270
+9,Infinite Scrolling,34,33,137,6.6,220
+9,Recommendation,45,40,112,5.2,305
+10,Content Ranking,55,54,120,6.3,285
+10,Infinite Scrolling,49,48,148,7.4,230
+10,Recommendation,57,56,118,5.7,315
